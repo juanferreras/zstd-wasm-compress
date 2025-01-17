@@ -1,0 +1,5 @@
+{
+  "name": "zstd-wasm-compress",
+  "private": true,
+  "version": "0.0.0"
+}
